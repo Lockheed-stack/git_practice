@@ -184,3 +184,6 @@ git push origin --delete [branch-name]
 git branch -dr [remote/branch]
 ```
 
+#### 6.Q&A
+> Git中的origin到底是什么？
+A:  就是远程仓库链接的别名，github默认叫origin，即使用命令 git remote add [<option>]<name><url> 时，对应的name，叫阿猫，阿狗都行。
